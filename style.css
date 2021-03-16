@@ -8,3 +8,15 @@
 .ui.celled.grid {
     box-shadow: none;
 }
+
+.content {
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+a.header {
+    text-align: center;
+}
+.ui.card:first-child {
+    width: 100%;
+}
